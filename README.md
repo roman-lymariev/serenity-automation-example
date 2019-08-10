@@ -11,10 +11,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 The solution is OS-independent. You will need the following: 
 
-* [installed and configured Java] (https://java.com/en/download/help/download_options.xml)
+* [installed and configured Java](https://java.com/en/download/help/download_options.xml)
 * [installed and configured Maven](https://maven.apache.org/install.html)
-* [installed Chrome browser] (https://www.google.com/chrome/)
-* [downloaded chromedriver.exe (depending on installed Chrome version)] (https://chromedriver.chromium.org/downloads)
+* [installed Chrome browser](https://www.google.com/chrome/)
+* [downloaded chromedriver.exe (depending on installed Chrome version)](https://chromedriver.chromium.org/downloads)
 
 ### Installing
 
@@ -57,7 +57,7 @@ pages - essentialy PageObjects, here you interact with tested application websit
 Also, the solution contains lots of little goodies, like methods to work with cookies or angular, but the list would be too lenghty to mention it here.
 
 
-##Tested Application 
+## Tested Application 
 
 Application under test is a small website with the following features:
 
@@ -71,7 +71,7 @@ Application under test is a small website with the following features:
 6. Users can log out from the application
 
 
-##Test Coverage
+## Test Coverage
 
 I decided to cover the following:
 
@@ -85,7 +85,7 @@ What was out of scope:
 - Warning messages text - also considered lesser priority, though I would create some bugs about some invalid Alert text 
 
 
-##Test Results
+## Test Results
 
 11 of 50 tests were failed. The issues found are:
 
