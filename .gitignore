@@ -1,0 +1,10 @@
+#
+# A collection of useful .gitignore templates
+# https://github.com/github/gitignore
+# 
+
+/target/
+/bin/
+/.idea/
+test.iml
+result.html
